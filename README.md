@@ -13,6 +13,7 @@ Project ideas for anyone wanting to program, but can't think of an idea.
    ## Utilities
    *Useful Tools*
    
+    * File Permission Utility
     * Notepad
     * Language cheat sheet. (look above)
     * Terminal Emulator
