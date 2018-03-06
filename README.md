@@ -3,6 +3,7 @@ Project ideas for anyone wanting to program, but can't think of an idea.
 - [Programming Ideas](#ProgrammingIdeas)
     - [Utilities](#utilities)
     - [CLI](#cli)
+    - [Linux](#linux)
     - [Learning](#learning)
     - [Misc](#misc)
     - [Games](#games)
@@ -49,6 +50,11 @@ Project ideas for anyone wanting to program, but can't think of an idea.
    * CLI Task Manager
    * Windows command line text editor
    * Gmail cli
+   
+   ## Linux
+   *Linux*
+   
+   * Tool to scan ips and select one thats not assigned and assign it
    
    
    ## Learning
